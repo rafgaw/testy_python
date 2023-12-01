@@ -33,3 +33,14 @@ x = 1
 print(not x == 1)
 
 print(None is None)
+
+a = 5
+
+b = 6
+
+print(f"Porownanie {a} > {b}", a > b)
+print(f"Porownanie {a} < {b}", a < b)
+print(f"Porownanie {a} == {b}", a == b)
+print(f"Porownanie {a} >= {b}", a >= b)
+print(f"Porownanie {a} <= {b}", a <= b)
+print(f"Porownanie {a} != {b}", a != b)

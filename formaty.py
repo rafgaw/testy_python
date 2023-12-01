@@ -4,3 +4,5 @@ print("{:,}".format(liczba).replace(",", " "))
 
 print(f"{liczba:,}".replace(",", " "))
 print(f"{liczba:,}")
+
+
