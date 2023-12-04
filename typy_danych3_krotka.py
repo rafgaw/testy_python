@@ -1,0 +1,2 @@
+# krotka - sekwencja niezmienna
+

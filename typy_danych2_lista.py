@@ -56,5 +56,7 @@ print(id(lista3))
 lista.sort()
 print(lista)
 
-
+krotka = tuple(lista3)
+print(krotka)
+print(type(krotka))
 
