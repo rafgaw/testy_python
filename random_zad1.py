@@ -35,3 +35,4 @@ lista_lotto.remove(f)
 print(random.choices(lista_lotto, k=6))  # losowanie z powtorzeniami
 print(random.sample(lista_lotto, 6))  # losowanie bez powtorzen
 
+
