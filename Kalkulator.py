@@ -1,18 +1,18 @@
 # Kalkulator
 #  list = [1, 2, 3, 4, 0]
 
-from os import system, name
-
-
-# define our clear function
-def clear():
-    # for windows the name is 'nt'
-    if name == 'ce':
-        _ = system('cls')
-
-    # and for mac and linux, the os.name is 'posix'
-    else:
-        _ = system('clear')
+# from os import system, name
+#
+#
+# # define our clear function
+# def clear():
+#     # for windows the name is 'nt'
+#     if name == 'ce':
+#         _ = system('cls')
+#
+#     # and for mac and linux, the os.name is 'posix'
+#     else:
+#         _ = system('clear')
 # import pyautogui
 #  pyautogui.hotkey('command', 'l')
 
