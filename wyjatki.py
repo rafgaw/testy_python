@@ -1,11 +1,11 @@
 try:
-#    print(5 / 0)
+#  print(5 / 0)
 #    print("a" / 2)
 except ZeroDivisionError:
     print("nie dziel przez zero!")
 except TypeError:
     print("blad typu")
-except ValueError
+except ValueError:
     print("blad wartosci")
 except Exception as e:
     print("błąd", e)
