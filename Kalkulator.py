@@ -13,15 +13,6 @@
 #     # and for mac and linux, the os.name is 'posix'
 #     else:
 #         _ = system('clear')
-# import pyautogui
-#  pyautogui.hotkey('command', 'l')
-
-# from __future__ import print_function
-
-# def wipe():
-#     os.system("clear && printf '\e[3J'")
-
-
 #
 # clear = lambda: os.system('cls')
 #     # for windows
@@ -37,7 +28,7 @@ while True:
 4. Dzielenie
 0. Wyjście
 :"""))
-    clear()
+    #  clear()
     #    print(menu)
     # if not menu.isnumeric():
     #     print(f"{menu} To nie cyfra")
