@@ -46,5 +46,6 @@ ku2.wydaje_odglos()
 ku2.dziobanie()
 
 or2 = Orzel("Orzeł", 45)
-or2.wydaje_odglos()
+or2.wydaje_
+odglos()
 or2.latam()
